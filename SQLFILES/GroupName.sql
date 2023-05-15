@@ -1,0 +1,1 @@
+select * from ransomware.transactions_with_address_group where addressGroup = "[Name Here]";
